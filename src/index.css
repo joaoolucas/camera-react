@@ -51,5 +51,5 @@ button {
   outline: none;
   padding: 8px 16px;
 
-  background-image: linear-gradient();
+  background-image: linear-gradient(to right, #84844fff, #ff4f84);
 }
